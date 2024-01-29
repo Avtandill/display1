@@ -1,0 +1,28 @@
+body {
+    background-color: #DAA520;
+}
+.figures {
+    display: inline-flex;
+    margin: 10px;
+}
+.rectangle-1 {
+    width: 365px;
+    height: 365px;
+    background-color: #297E40;
+    border-radius: 12px;
+    margin: 10px;
+}
+.rectangle-2 {
+    width: 365px;
+    height: 365px;
+    background-color: #8E2877;
+    border-radius: 90px;
+    margin: 10px;
+}
+.rectangle-3 {
+    width: 365px;
+    height: 365px;
+    background-color: #361BA4;
+    border-radius: 20px;
+    margin: 10px;
+}
